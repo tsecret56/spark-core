@@ -1,0 +1,343 @@
+15/08/14 12:14:51.005 main WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+15/08/14 12:14:51.102 main INFO SecurityManager: Changing view acls to: SM
+15/08/14 12:14:51.106 main INFO SecurityManager: Changing modify acls to: SM
+15/08/14 12:14:51.110 main INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(SM); users with modify permissions: Set(SM)
+15/08/14 12:14:52.197 Thread-1 INFO Utils: Shutdown hook called
+15/08/14 12:20:47.275 main WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+15/08/14 12:20:47.442 main INFO SecurityManager: Changing view acls to: SM
+15/08/14 12:20:47.444 main INFO SecurityManager: Changing modify acls to: SM
+15/08/14 12:20:47.446 main INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(SM); users with modify permissions: Set(SM)
+15/08/14 12:20:48.818 sparkMaster-akka.actor.default-dispatcher-3 INFO Slf4jLogger: Slf4jLogger started
+15/08/14 12:20:48.920 sparkMaster-akka.actor.default-dispatcher-3 INFO Remoting: Starting remoting
+15/08/14 12:20:49.371 sparkMaster-akka.actor.default-dispatcher-3 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://sparkMaster@192.168.0.184:7077]
+15/08/14 12:20:49.385 main INFO Utils: Successfully started service 'sparkMaster' on port 7077.
+15/08/14 12:20:50.691 sparkMaster-akka.actor.default-dispatcher-3 INFO Server: jetty-8.1.14.v20131031
+15/08/14 12:20:50.823 sparkMaster-akka.actor.default-dispatcher-3 INFO AbstractConnector: Started SelectChannelConnector@SUNMIN:6066
+15/08/14 12:20:50.823 sparkMaster-akka.actor.default-dispatcher-3 INFO Utils: Successfully started service on port 6066.
+15/08/14 12:20:50.835 sparkMaster-akka.actor.default-dispatcher-3 INFO StandaloneRestServer: Started REST server for submitting applications on port 6066
+15/08/14 12:20:50.911 sparkMaster-akka.actor.default-dispatcher-3 INFO Master: Starting Spark master at spark://192.168.0.184:7077
+15/08/14 12:20:50.938 sparkMaster-akka.actor.default-dispatcher-3 INFO Master: Running Spark version 1.4.1
+15/08/14 12:20:51.010 sparkMaster-akka.actor.default-dispatcher-3 INFO Server: jetty-8.1.14.v20131031
+15/08/14 12:20:51.024 sparkMaster-akka.actor.default-dispatcher-3 INFO AbstractConnector: Started SelectChannelConnector@0.0.0.0:8080
+15/08/14 12:20:51.024 sparkMaster-akka.actor.default-dispatcher-3 INFO Utils: Successfully started service 'MasterUI' on port 8080.
+15/08/14 12:20:51.038 sparkMaster-akka.actor.default-dispatcher-3 INFO MasterWebUI: Started MasterWebUI at http://192.168.0.184:8080
+15/08/14 12:20:51.612 sparkMaster-akka.actor.default-dispatcher-3 INFO Master: I have been elected leader! New state: ALIVE
+15/08/14 12:26:49.578 main WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+15/08/14 12:26:49.706 main INFO SecurityManager: Changing view acls to: SM
+15/08/14 12:26:49.710 main INFO SecurityManager: Changing modify acls to: SM
+15/08/14 12:26:49.714 main INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(SM); users with modify permissions: Set(SM)
+15/08/14 12:26:50.919 sparkMaster-akka.actor.default-dispatcher-2 INFO Slf4jLogger: Slf4jLogger started
+15/08/14 12:26:51.010 sparkMaster-akka.actor.default-dispatcher-2 INFO Remoting: Starting remoting
+15/08/14 12:26:51.352 sparkMaster-akka.actor.default-dispatcher-3 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://sparkMaster@192.168.0.184:7077]
+15/08/14 12:26:51.367 main INFO Utils: Successfully started service 'sparkMaster' on port 7077.
+15/08/14 12:26:52.030 sparkMaster-akka.actor.default-dispatcher-2 INFO Server: jetty-8.1.14.v20131031
+15/08/14 12:26:52.077 sparkMaster-akka.actor.default-dispatcher-2 INFO AbstractConnector: Started SelectChannelConnector@SUNMIN:6066
+15/08/14 12:26:52.077 sparkMaster-akka.actor.default-dispatcher-2 INFO Utils: Successfully started service on port 6066.
+15/08/14 12:26:52.082 sparkMaster-akka.actor.default-dispatcher-2 INFO StandaloneRestServer: Started REST server for submitting applications on port 6066
+15/08/14 12:26:52.099 sparkMaster-akka.actor.default-dispatcher-2 INFO Master: Starting Spark master at spark://192.168.0.184:7077
+15/08/14 12:26:52.106 sparkMaster-akka.actor.default-dispatcher-2 INFO Master: Running Spark version 1.4.1
+15/08/14 12:26:52.129 sparkMaster-akka.actor.default-dispatcher-2 INFO Server: jetty-8.1.14.v20131031
+15/08/14 12:26:52.140 sparkMaster-akka.actor.default-dispatcher-2 INFO AbstractConnector: Started SelectChannelConnector@0.0.0.0:8080
+15/08/14 12:26:52.140 sparkMaster-akka.actor.default-dispatcher-2 INFO Utils: Successfully started service 'MasterUI' on port 8080.
+15/08/14 12:26:52.152 sparkMaster-akka.actor.default-dispatcher-2 INFO MasterWebUI: Started MasterWebUI at http://192.168.0.184:8080
+15/08/14 12:26:52.581 sparkMaster-akka.actor.default-dispatcher-2 INFO Master: I have been elected leader! New state: ALIVE
+15/08/14 13:38:55.921 main WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+15/08/14 13:38:56.062 main INFO SecurityManager: Changing view acls to: SM
+15/08/14 13:38:56.063 main INFO SecurityManager: Changing modify acls to: SM
+15/08/14 13:38:56.063 main INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(SM); users with modify permissions: Set(SM)
+15/08/14 13:38:57.184 sparkMaster-akka.actor.default-dispatcher-3 INFO Slf4jLogger: Slf4jLogger started
+15/08/14 13:38:57.268 sparkMaster-akka.actor.default-dispatcher-3 INFO Remoting: Starting remoting
+15/08/14 13:38:57.584 sparkMaster-akka.actor.default-dispatcher-3 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://sparkMaster@192.168.0.184:7077]
+15/08/14 13:38:57.594 main INFO Utils: Successfully started service 'sparkMaster' on port 7077.
+15/08/14 13:38:57.840 sparkMaster-akka.actor.default-dispatcher-3 INFO Server: jetty-8.1.14.v20131031
+15/08/14 13:38:57.900 sparkMaster-akka.actor.default-dispatcher-3 INFO AbstractConnector: Started SelectChannelConnector@SUNMIN:6066
+15/08/14 13:38:57.900 sparkMaster-akka.actor.default-dispatcher-3 INFO Utils: Successfully started service on port 6066.
+15/08/14 13:38:57.901 sparkMaster-akka.actor.default-dispatcher-3 INFO StandaloneRestServer: Started REST server for submitting applications on port 6066
+15/08/14 13:38:57.905 sparkMaster-akka.actor.default-dispatcher-3 INFO Master: Starting Spark master at spark://192.168.0.184:7077
+15/08/14 13:38:57.906 sparkMaster-akka.actor.default-dispatcher-3 INFO Master: Running Spark version 1.4.1
+15/08/14 13:38:57.915 sparkMaster-akka.actor.default-dispatcher-3 INFO Server: jetty-8.1.14.v20131031
+15/08/14 13:38:57.927 sparkMaster-akka.actor.default-dispatcher-3 INFO AbstractConnector: Started SelectChannelConnector@0.0.0.0:8080
+15/08/14 13:38:57.927 sparkMaster-akka.actor.default-dispatcher-3 INFO Utils: Successfully started service 'MasterUI' on port 8080.
+15/08/14 13:38:57.930 sparkMaster-akka.actor.default-dispatcher-3 INFO MasterWebUI: Started MasterWebUI at http://192.168.0.184:8080
+15/08/14 13:38:58.335 sparkMaster-akka.actor.default-dispatcher-3 INFO Master: I have been elected leader! New state: ALIVE
+15/08/14 13:58:49.244 main WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+15/08/14 13:58:49.570 main INFO SecurityManager: Changing view acls to: SM
+15/08/14 13:58:49.572 main INFO SecurityManager: Changing modify acls to: SM
+15/08/14 13:58:49.573 main INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(SM); users with modify permissions: Set(SM)
+15/08/14 13:58:50.880 sparkMaster-akka.actor.default-dispatcher-3 INFO Slf4jLogger: Slf4jLogger started
+15/08/14 13:58:50.961 sparkMaster-akka.actor.default-dispatcher-3 INFO Remoting: Starting remoting
+15/08/14 13:58:51.280 sparkMaster-akka.actor.default-dispatcher-3 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://sparkMaster@192.168.0.184:7077]
+15/08/14 13:58:51.290 main INFO Utils: Successfully started service 'sparkMaster' on port 7077.
+15/08/14 13:58:51.541 sparkMaster-akka.actor.default-dispatcher-3 INFO Server: jetty-8.1.14.v20131031
+15/08/14 13:58:51.593 sparkMaster-akka.actor.default-dispatcher-3 INFO AbstractConnector: Started SelectChannelConnector@SUNMIN:6066
+15/08/14 13:58:51.593 sparkMaster-akka.actor.default-dispatcher-3 INFO Utils: Successfully started service on port 6066.
+15/08/14 13:58:51.594 sparkMaster-akka.actor.default-dispatcher-3 INFO StandaloneRestServer: Started REST server for submitting applications on port 6066
+15/08/14 13:58:51.598 sparkMaster-akka.actor.default-dispatcher-3 INFO Master: Starting Spark master at spark://192.168.0.184:7077
+15/08/14 13:58:51.598 sparkMaster-akka.actor.default-dispatcher-3 INFO Master: Running Spark version 1.4.1
+15/08/14 13:58:51.607 sparkMaster-akka.actor.default-dispatcher-3 INFO Server: jetty-8.1.14.v20131031
+15/08/14 13:58:51.620 sparkMaster-akka.actor.default-dispatcher-3 INFO AbstractConnector: Started SelectChannelConnector@0.0.0.0:8080
+15/08/14 13:58:51.620 sparkMaster-akka.actor.default-dispatcher-3 INFO Utils: Successfully started service 'MasterUI' on port 8080.
+15/08/14 13:58:51.623 sparkMaster-akka.actor.default-dispatcher-3 INFO MasterWebUI: Started MasterWebUI at http://192.168.0.184:8080
+15/08/14 13:58:51.927 sparkMaster-akka.actor.default-dispatcher-3 INFO Master: I have been elected leader! New state: ALIVE
+15/08/14 14:01:12.871 Thread-1 INFO Utils: Shutdown hook called
+15/08/14 14:02:29.213 main WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+15/08/14 14:02:29.314 main INFO SecurityManager: Changing view acls to: SM
+15/08/14 14:02:29.317 main INFO SecurityManager: Changing modify acls to: SM
+15/08/14 14:02:29.321 main INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(SM); users with modify permissions: Set(SM)
+15/08/14 14:02:30.278 sparkWorker-akka.actor.default-dispatcher-2 INFO Slf4jLogger: Slf4jLogger started
+15/08/14 14:02:30.347 sparkWorker-akka.actor.default-dispatcher-2 INFO Remoting: Starting remoting
+15/08/14 14:02:30.638 sparkWorker-akka.actor.default-dispatcher-2 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://sparkWorker@192.168.0.184:60449]
+15/08/14 14:02:30.653 main INFO Utils: Successfully started service 'sparkWorker' on port 60449.
+15/08/14 14:02:30.812 sparkWorker-akka.actor.default-dispatcher-3 INFO Worker: Starting Spark worker 192.168.0.184:60449 with 4 cores, 2.9 GB RAM
+15/08/14 14:02:30.815 sparkWorker-akka.actor.default-dispatcher-3 INFO Worker: Running Spark version 1.4.1
+15/08/14 14:02:30.816 sparkWorker-akka.actor.default-dispatcher-3 INFO Worker: Spark home: .
+15/08/14 14:02:31.044 sparkWorker-akka.actor.default-dispatcher-3 INFO Server: jetty-8.1.14.v20131031
+15/08/14 14:02:31.095 sparkWorker-akka.actor.default-dispatcher-3 INFO AbstractConnector: Started SelectChannelConnector@0.0.0.0:8081
+15/08/14 14:02:31.096 sparkWorker-akka.actor.default-dispatcher-3 INFO Utils: Successfully started service 'WorkerUI' on port 8081.
+15/08/14 14:02:31.113 sparkWorker-akka.actor.default-dispatcher-3 INFO WorkerWebUI: Started WorkerWebUI at http://192.168.0.184:8081
+15/08/14 14:02:31.114 sparkWorker-akka.actor.default-dispatcher-3 INFO Worker: Connecting to master akka.tcp://sparkMaster@192.168.0.184:7077/user/Master...
+15/08/14 14:02:31.594 sparkMaster-akka.actor.default-dispatcher-4 INFO Master: Registering worker 192.168.0.184:60449 with 4 cores, 2.9 GB RAM
+15/08/14 14:02:31.631 sparkWorker-akka.actor.default-dispatcher-3 INFO Worker: Successfully registered with master spark://192.168.0.184:7077
+15/08/14 14:06:43.393 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Registering app JavaWordCount
+15/08/14 14:06:43.440 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Registered app JavaWordCount with ID app-20150814140643-0000
+15/08/14 14:06:43.515 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Launching executor app-20150814140643-0000/0 on worker worker-20150814140230-192.168.0.184-60449
+15/08/14 14:06:43.785 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Asked to launch executor app-20150814140643-0000/0 for JavaWordCount
+15/08/14 14:06:43.993 ExecutorRunner for app-20150814140643-0000/0 ERROR ExecutorRunner: Error running executor
+java.lang.IllegalStateException: Cannot find any assembly build directories.
+	at org.apache.spark.launcher.CommandBuilderUtils.checkState(CommandBuilderUtils.java:229)
+	at org.apache.spark.launcher.AbstractCommandBuilder.getScalaVersion(AbstractCommandBuilder.java:264)
+	at org.apache.spark.launcher.AbstractCommandBuilder.findAssembly(AbstractCommandBuilder.java:322)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildClassPath(AbstractCommandBuilder.java:201)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildJavaCommand(AbstractCommandBuilder.java:115)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:39)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:48)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildCommandSeq(CommandUtils.scala:61)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildProcessBuilder(CommandUtils.scala:49)
+	at org.apache.spark.deploy.worker.ExecutorRunner.org$apache$spark$deploy$worker$ExecutorRunner$$fetchAndRunExecutor(ExecutorRunner.scala:128)
+	at org.apache.spark.deploy.worker.ExecutorRunner$$anon$1.run(ExecutorRunner.scala:69)
+15/08/14 14:06:44.041 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Removing executor app-20150814140643-0000/0 because it is FAILED
+15/08/14 14:06:44.042 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Launching executor app-20150814140643-0000/1 on worker worker-20150814140230-192.168.0.184-60449
+15/08/14 14:06:44.107 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Executor app-20150814140643-0000/0 finished with state FAILED message java.lang.IllegalStateException: Cannot find any assembly build directories.
+15/08/14 14:06:44.108 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Asked to launch executor app-20150814140643-0000/1 for JavaWordCount
+15/08/14 14:06:44.144 ExecutorRunner for app-20150814140643-0000/1 ERROR ExecutorRunner: Error running executor
+java.lang.IllegalStateException: Cannot find any assembly build directories.
+	at org.apache.spark.launcher.CommandBuilderUtils.checkState(CommandBuilderUtils.java:229)
+	at org.apache.spark.launcher.AbstractCommandBuilder.getScalaVersion(AbstractCommandBuilder.java:264)
+	at org.apache.spark.launcher.AbstractCommandBuilder.findAssembly(AbstractCommandBuilder.java:322)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildClassPath(AbstractCommandBuilder.java:201)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildJavaCommand(AbstractCommandBuilder.java:115)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:39)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:48)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildCommandSeq(CommandUtils.scala:61)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildProcessBuilder(CommandUtils.scala:49)
+	at org.apache.spark.deploy.worker.ExecutorRunner.org$apache$spark$deploy$worker$ExecutorRunner$$fetchAndRunExecutor(ExecutorRunner.scala:128)
+	at org.apache.spark.deploy.worker.ExecutorRunner$$anon$1.run(ExecutorRunner.scala:69)
+15/08/14 14:06:44.149 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Executor app-20150814140643-0000/1 finished with state FAILED message java.lang.IllegalStateException: Cannot find any assembly build directories.
+15/08/14 14:06:44.160 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Removing executor app-20150814140643-0000/1 because it is FAILED
+15/08/14 14:06:44.161 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Launching executor app-20150814140643-0000/2 on worker worker-20150814140230-192.168.0.184-60449
+15/08/14 14:06:44.185 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Asked to launch executor app-20150814140643-0000/2 for JavaWordCount
+15/08/14 14:06:44.218 ExecutorRunner for app-20150814140643-0000/2 ERROR ExecutorRunner: Error running executor
+java.lang.IllegalStateException: Cannot find any assembly build directories.
+	at org.apache.spark.launcher.CommandBuilderUtils.checkState(CommandBuilderUtils.java:229)
+	at org.apache.spark.launcher.AbstractCommandBuilder.getScalaVersion(AbstractCommandBuilder.java:264)
+	at org.apache.spark.launcher.AbstractCommandBuilder.findAssembly(AbstractCommandBuilder.java:322)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildClassPath(AbstractCommandBuilder.java:201)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildJavaCommand(AbstractCommandBuilder.java:115)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:39)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:48)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildCommandSeq(CommandUtils.scala:61)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildProcessBuilder(CommandUtils.scala:49)
+	at org.apache.spark.deploy.worker.ExecutorRunner.org$apache$spark$deploy$worker$ExecutorRunner$$fetchAndRunExecutor(ExecutorRunner.scala:128)
+	at org.apache.spark.deploy.worker.ExecutorRunner$$anon$1.run(ExecutorRunner.scala:69)
+15/08/14 14:06:44.222 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Executor app-20150814140643-0000/2 finished with state FAILED message java.lang.IllegalStateException: Cannot find any assembly build directories.
+15/08/14 14:06:44.236 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Removing executor app-20150814140643-0000/2 because it is FAILED
+15/08/14 14:06:44.236 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Launching executor app-20150814140643-0000/3 on worker worker-20150814140230-192.168.0.184-60449
+15/08/14 14:06:44.255 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Asked to launch executor app-20150814140643-0000/3 for JavaWordCount
+15/08/14 14:06:44.307 ExecutorRunner for app-20150814140643-0000/3 ERROR ExecutorRunner: Error running executor
+java.lang.IllegalStateException: Cannot find any assembly build directories.
+	at org.apache.spark.launcher.CommandBuilderUtils.checkState(CommandBuilderUtils.java:229)
+	at org.apache.spark.launcher.AbstractCommandBuilder.getScalaVersion(AbstractCommandBuilder.java:264)
+	at org.apache.spark.launcher.AbstractCommandBuilder.findAssembly(AbstractCommandBuilder.java:322)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildClassPath(AbstractCommandBuilder.java:201)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildJavaCommand(AbstractCommandBuilder.java:115)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:39)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:48)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildCommandSeq(CommandUtils.scala:61)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildProcessBuilder(CommandUtils.scala:49)
+	at org.apache.spark.deploy.worker.ExecutorRunner.org$apache$spark$deploy$worker$ExecutorRunner$$fetchAndRunExecutor(ExecutorRunner.scala:128)
+	at org.apache.spark.deploy.worker.ExecutorRunner$$anon$1.run(ExecutorRunner.scala:69)
+15/08/14 14:06:44.310 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Executor app-20150814140643-0000/3 finished with state FAILED message java.lang.IllegalStateException: Cannot find any assembly build directories.
+15/08/14 14:06:44.321 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Removing executor app-20150814140643-0000/3 because it is FAILED
+15/08/14 14:06:44.321 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Launching executor app-20150814140643-0000/4 on worker worker-20150814140230-192.168.0.184-60449
+15/08/14 14:06:44.333 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Asked to launch executor app-20150814140643-0000/4 for JavaWordCount
+15/08/14 14:06:44.366 ExecutorRunner for app-20150814140643-0000/4 ERROR ExecutorRunner: Error running executor
+java.lang.IllegalStateException: Cannot find any assembly build directories.
+	at org.apache.spark.launcher.CommandBuilderUtils.checkState(CommandBuilderUtils.java:229)
+	at org.apache.spark.launcher.AbstractCommandBuilder.getScalaVersion(AbstractCommandBuilder.java:264)
+	at org.apache.spark.launcher.AbstractCommandBuilder.findAssembly(AbstractCommandBuilder.java:322)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildClassPath(AbstractCommandBuilder.java:201)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildJavaCommand(AbstractCommandBuilder.java:115)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:39)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:48)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildCommandSeq(CommandUtils.scala:61)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildProcessBuilder(CommandUtils.scala:49)
+	at org.apache.spark.deploy.worker.ExecutorRunner.org$apache$spark$deploy$worker$ExecutorRunner$$fetchAndRunExecutor(ExecutorRunner.scala:128)
+	at org.apache.spark.deploy.worker.ExecutorRunner$$anon$1.run(ExecutorRunner.scala:69)
+15/08/14 14:06:44.370 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Executor app-20150814140643-0000/4 finished with state FAILED message java.lang.IllegalStateException: Cannot find any assembly build directories.
+15/08/14 14:06:44.379 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Removing executor app-20150814140643-0000/4 because it is FAILED
+15/08/14 14:06:44.380 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Launching executor app-20150814140643-0000/5 on worker worker-20150814140230-192.168.0.184-60449
+15/08/14 14:06:44.399 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Asked to launch executor app-20150814140643-0000/5 for JavaWordCount
+15/08/14 14:06:44.435 ExecutorRunner for app-20150814140643-0000/5 ERROR ExecutorRunner: Error running executor
+java.lang.IllegalStateException: Cannot find any assembly build directories.
+	at org.apache.spark.launcher.CommandBuilderUtils.checkState(CommandBuilderUtils.java:229)
+	at org.apache.spark.launcher.AbstractCommandBuilder.getScalaVersion(AbstractCommandBuilder.java:264)
+	at org.apache.spark.launcher.AbstractCommandBuilder.findAssembly(AbstractCommandBuilder.java:322)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildClassPath(AbstractCommandBuilder.java:201)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildJavaCommand(AbstractCommandBuilder.java:115)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:39)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:48)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildCommandSeq(CommandUtils.scala:61)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildProcessBuilder(CommandUtils.scala:49)
+	at org.apache.spark.deploy.worker.ExecutorRunner.org$apache$spark$deploy$worker$ExecutorRunner$$fetchAndRunExecutor(ExecutorRunner.scala:128)
+	at org.apache.spark.deploy.worker.ExecutorRunner$$anon$1.run(ExecutorRunner.scala:69)
+15/08/14 14:06:44.436 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Executor app-20150814140643-0000/5 finished with state FAILED message java.lang.IllegalStateException: Cannot find any assembly build directories.
+15/08/14 14:06:44.442 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Removing executor app-20150814140643-0000/5 because it is FAILED
+15/08/14 14:06:44.443 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Launching executor app-20150814140643-0000/6 on worker worker-20150814140230-192.168.0.184-60449
+15/08/14 14:06:44.455 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Asked to launch executor app-20150814140643-0000/6 for JavaWordCount
+15/08/14 14:06:44.467 ExecutorRunner for app-20150814140643-0000/6 ERROR ExecutorRunner: Error running executor
+java.lang.IllegalStateException: Cannot find any assembly build directories.
+	at org.apache.spark.launcher.CommandBuilderUtils.checkState(CommandBuilderUtils.java:229)
+	at org.apache.spark.launcher.AbstractCommandBuilder.getScalaVersion(AbstractCommandBuilder.java:264)
+	at org.apache.spark.launcher.AbstractCommandBuilder.findAssembly(AbstractCommandBuilder.java:322)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildClassPath(AbstractCommandBuilder.java:201)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildJavaCommand(AbstractCommandBuilder.java:115)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:39)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:48)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildCommandSeq(CommandUtils.scala:61)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildProcessBuilder(CommandUtils.scala:49)
+	at org.apache.spark.deploy.worker.ExecutorRunner.org$apache$spark$deploy$worker$ExecutorRunner$$fetchAndRunExecutor(ExecutorRunner.scala:128)
+	at org.apache.spark.deploy.worker.ExecutorRunner$$anon$1.run(ExecutorRunner.scala:69)
+15/08/14 14:06:44.469 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Executor app-20150814140643-0000/6 finished with state FAILED message java.lang.IllegalStateException: Cannot find any assembly build directories.
+15/08/14 14:06:44.474 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Removing executor app-20150814140643-0000/6 because it is FAILED
+15/08/14 14:06:44.474 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Launching executor app-20150814140643-0000/7 on worker worker-20150814140230-192.168.0.184-60449
+15/08/14 14:06:44.481 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Asked to launch executor app-20150814140643-0000/7 for JavaWordCount
+15/08/14 14:06:44.495 ExecutorRunner for app-20150814140643-0000/7 ERROR ExecutorRunner: Error running executor
+java.lang.IllegalStateException: Cannot find any assembly build directories.
+	at org.apache.spark.launcher.CommandBuilderUtils.checkState(CommandBuilderUtils.java:229)
+	at org.apache.spark.launcher.AbstractCommandBuilder.getScalaVersion(AbstractCommandBuilder.java:264)
+	at org.apache.spark.launcher.AbstractCommandBuilder.findAssembly(AbstractCommandBuilder.java:322)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildClassPath(AbstractCommandBuilder.java:201)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildJavaCommand(AbstractCommandBuilder.java:115)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:39)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:48)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildCommandSeq(CommandUtils.scala:61)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildProcessBuilder(CommandUtils.scala:49)
+	at org.apache.spark.deploy.worker.ExecutorRunner.org$apache$spark$deploy$worker$ExecutorRunner$$fetchAndRunExecutor(ExecutorRunner.scala:128)
+	at org.apache.spark.deploy.worker.ExecutorRunner$$anon$1.run(ExecutorRunner.scala:69)
+15/08/14 14:06:44.496 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Executor app-20150814140643-0000/7 finished with state FAILED message java.lang.IllegalStateException: Cannot find any assembly build directories.
+15/08/14 14:06:44.502 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Removing executor app-20150814140643-0000/7 because it is FAILED
+15/08/14 14:06:44.502 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Launching executor app-20150814140643-0000/8 on worker worker-20150814140230-192.168.0.184-60449
+15/08/14 14:06:44.509 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Asked to launch executor app-20150814140643-0000/8 for JavaWordCount
+15/08/14 14:06:44.531 ExecutorRunner for app-20150814140643-0000/8 ERROR ExecutorRunner: Error running executor
+java.lang.IllegalStateException: Cannot find any assembly build directories.
+	at org.apache.spark.launcher.CommandBuilderUtils.checkState(CommandBuilderUtils.java:229)
+	at org.apache.spark.launcher.AbstractCommandBuilder.getScalaVersion(AbstractCommandBuilder.java:264)
+	at org.apache.spark.launcher.AbstractCommandBuilder.findAssembly(AbstractCommandBuilder.java:322)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildClassPath(AbstractCommandBuilder.java:201)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildJavaCommand(AbstractCommandBuilder.java:115)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:39)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:48)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildCommandSeq(CommandUtils.scala:61)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildProcessBuilder(CommandUtils.scala:49)
+	at org.apache.spark.deploy.worker.ExecutorRunner.org$apache$spark$deploy$worker$ExecutorRunner$$fetchAndRunExecutor(ExecutorRunner.scala:128)
+	at org.apache.spark.deploy.worker.ExecutorRunner$$anon$1.run(ExecutorRunner.scala:69)
+15/08/14 14:06:44.534 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Executor app-20150814140643-0000/8 finished with state FAILED message java.lang.IllegalStateException: Cannot find any assembly build directories.
+15/08/14 14:06:44.540 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Removing executor app-20150814140643-0000/8 because it is FAILED
+15/08/14 14:06:44.540 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Launching executor app-20150814140643-0000/9 on worker worker-20150814140230-192.168.0.184-60449
+15/08/14 14:06:44.549 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Asked to launch executor app-20150814140643-0000/9 for JavaWordCount
+15/08/14 14:06:44.578 ExecutorRunner for app-20150814140643-0000/9 ERROR ExecutorRunner: Error running executor
+java.lang.IllegalStateException: Cannot find any assembly build directories.
+	at org.apache.spark.launcher.CommandBuilderUtils.checkState(CommandBuilderUtils.java:229)
+	at org.apache.spark.launcher.AbstractCommandBuilder.getScalaVersion(AbstractCommandBuilder.java:264)
+	at org.apache.spark.launcher.AbstractCommandBuilder.findAssembly(AbstractCommandBuilder.java:322)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildClassPath(AbstractCommandBuilder.java:201)
+	at org.apache.spark.launcher.AbstractCommandBuilder.buildJavaCommand(AbstractCommandBuilder.java:115)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:39)
+	at org.apache.spark.launcher.WorkerCommandBuilder.buildCommand(WorkerCommandBuilder.scala:48)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildCommandSeq(CommandUtils.scala:61)
+	at org.apache.spark.deploy.worker.CommandUtils$.buildProcessBuilder(CommandUtils.scala:49)
+	at org.apache.spark.deploy.worker.ExecutorRunner.org$apache$spark$deploy$worker$ExecutorRunner$$fetchAndRunExecutor(ExecutorRunner.scala:128)
+	at org.apache.spark.deploy.worker.ExecutorRunner$$anon$1.run(ExecutorRunner.scala:69)
+15/08/14 14:06:44.580 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Executor app-20150814140643-0000/9 finished with state FAILED message java.lang.IllegalStateException: Cannot find any assembly build directories.
+15/08/14 14:06:44.591 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Removing executor app-20150814140643-0000/9 because it is FAILED
+15/08/14 14:06:44.720 sparkMaster-akka.actor.default-dispatcher-16 ERROR Master: Application JavaWordCount with ID app-20150814140643-0000 failed 10 times; removing it
+15/08/14 14:06:44.732 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Removing app app-20150814140643-0000
+15/08/14 14:06:44.812 sparkMaster-akka.actor.default-dispatcher-16 WARN Master: Got status update for unknown executor app-20150814140643-0000/1
+15/08/14 14:06:44.814 sparkMaster-akka.actor.default-dispatcher-16 WARN Master: Got status update for unknown executor app-20150814140643-0000/2
+15/08/14 14:06:44.814 sparkMaster-akka.actor.default-dispatcher-16 WARN Master: Got status update for unknown executor app-20150814140643-0000/3
+15/08/14 14:06:44.815 sparkMaster-akka.actor.default-dispatcher-16 WARN Master: Got status update for unknown executor app-20150814140643-0000/4
+15/08/14 14:06:44.816 sparkMaster-akka.actor.default-dispatcher-16 WARN Master: Got status update for unknown executor app-20150814140643-0000/5
+15/08/14 14:06:44.816 sparkMaster-akka.actor.default-dispatcher-16 WARN Master: Got status update for unknown executor app-20150814140643-0000/6
+15/08/14 14:06:44.816 sparkMaster-akka.actor.default-dispatcher-16 WARN Master: Got status update for unknown executor app-20150814140643-0000/7
+15/08/14 14:06:44.816 sparkMaster-akka.actor.default-dispatcher-16 WARN Master: Got status update for unknown executor app-20150814140643-0000/8
+15/08/14 14:06:44.817 sparkMaster-akka.actor.default-dispatcher-16 WARN Master: Got status update for unknown executor app-20150814140643-0000/9
+15/08/14 14:06:44.846 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Cleaning up local directories for application app-20150814140643-0000
+15/08/14 14:06:46.159 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: akka.tcp://sparkDriver@192.168.0.184:60496 got disassociated, removing it.
+15/08/14 14:06:46.194 sparkMaster-akka.actor.default-dispatcher-4 WARN ReliableDeliverySupervisor: Association with remote system [akka.tcp://sparkDriver@192.168.0.184:60496] has failed, address is now gated for [5000] ms. Reason is: [Disassociated].
+15/08/14 14:06:46.291 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: akka.tcp://sparkDriver@192.168.0.184:60496 got disassociated, removing it.
+15/08/14 20:18:50.316 sparkMaster-akka.actor.default-dispatcher-4 INFO ProtocolStateActor: No response from remote. Handshake timed out or transport failure detector triggered.
+15/08/14 20:18:50.318 sparkMaster-akka.actor.default-dispatcher-4 WARN ReliableDeliverySupervisor: Association with remote system [akka.tcp://sparkWorker@192.168.0.184:60449] has failed, address is now gated for [5000] ms. Reason is: [Disassociated].
+15/08/14 20:18:50.349 sparkMaster-akka.actor.default-dispatcher-16 WARN Master: Removing worker-20150814140230-192.168.0.184-60449 because we got no heartbeat in 60 seconds
+15/08/14 20:18:50.397 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: Removing worker worker-20150814140230-192.168.0.184-60449 on 192.168.0.184:60449
+15/08/14 20:18:50.441 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: akka.tcp://sparkWorker@192.168.0.184:60449 got disassociated, removing it.
+15/08/14 20:18:50.442 sparkMaster-akka.actor.default-dispatcher-16 INFO Master: akka.tcp://sparkWorker@192.168.0.184:60449 got disassociated, removing it.
+15/08/14 20:18:50.741 sparkWorker-akka.actor.default-dispatcher-2 INFO ProtocolStateActor: No response from remote. Handshake timed out or transport failure detector triggered.
+15/08/14 20:18:50.931 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Disassociated [akka.tcp://sparkWorker@192.168.0.184:60449] -> [akka.tcp://sparkMaster@192.168.0.184:7077] Disassociated !
+15/08/14 20:18:50.970 sparkWorker-akka.actor.default-dispatcher-3 WARN ReliableDeliverySupervisor: Association with remote system [akka.tcp://sparkMaster@192.168.0.184:7077] has failed, address is now gated for [5000] ms. Reason is: [Disassociated].
+15/08/14 20:18:50.979 sparkWorker-akka.actor.default-dispatcher-2 ERROR Worker: Connection to master failed! Waiting for master to reconnect...
+15/08/14 20:18:50.986 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Connecting to master akka.tcp://sparkMaster@192.168.0.184:7077/user/Master...
+15/08/14 20:18:50.989 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Disassociated [akka.tcp://sparkWorker@192.168.0.184:60449] -> [akka.tcp://sparkMaster@192.168.0.184:7077] Disassociated !
+15/08/14 20:18:50.989 sparkWorker-akka.actor.default-dispatcher-2 ERROR Worker: Connection to master failed! Waiting for master to reconnect...
+15/08/14 20:18:51.011 sparkWorker-akka.actor.default-dispatcher-2 INFO Worker: Not spawning another attempt to register with the master, since there is an attempt scheduled already.
+15/08/15 13:15:13.235 sparkWorker-akka.actor.default-dispatcher-3 INFO Worker: Retrying connection to master (attempt # 1)
+15/08/15 13:15:13.970 sparkWorker-akka.actor.default-dispatcher-4 WARN ReliableDeliverySupervisor: Association with remote system [akka.tcp://sparkMaster@192.168.0.184:7077] has failed, address is now gated for [5000] ms. Reason is: [Association failed with [akka.tcp://sparkMaster@192.168.0.184:7077]].
+15/08/15 13:15:13.983 sparkWorker-akka.actor.default-dispatcher-3 INFO Worker: Disassociated [akka.tcp://sparkWorker@192.168.0.184:60449] -> [akka.tcp://sparkMaster@192.168.0.184:7077] Disassociated !
+15/08/15 13:15:13.983 sparkWorker-akka.actor.default-dispatcher-3 ERROR Worker: Connection to master failed! Waiting for master to reconnect...
+15/08/15 13:15:13.983 sparkWorker-akka.actor.default-dispatcher-3 INFO Worker: Not spawning another attempt to register with the master, since there is an attempt scheduled already.
+15/08/15 13:15:14.709 sparkWorker-akka.actor.default-dispatcher-4 INFO Worker: Retrying connection to master (attempt # 2)
+15/08/15 13:15:14.709 sparkWorker-akka.actor.default-dispatcher-17 INFO Worker: Retrying connection to master (attempt # 3)
+15/08/15 13:15:14.710 sparkWorker-akka.actor.default-dispatcher-17 INFO Worker: Retrying connection to master (attempt # 4)
+15/08/15 13:15:14.710 sparkWorker-akka.actor.default-dispatcher-17 INFO Worker: Retrying connection to master (attempt # 5)
+15/08/15 13:15:14.710 sparkWorker-akka.actor.default-dispatcher-17 INFO Worker: Retrying connection to master (attempt # 6)
+15/08/15 13:15:14.810 sparkWorker-akka.actor.default-dispatcher-17 INFO Worker: Retrying connection to master (attempt # 7)
+15/08/15 13:15:14.811 sparkWorker-akka.actor.default-dispatcher-17 INFO Worker: Retrying connection to master (attempt # 8)
+15/08/15 13:15:14.811 sparkWorker-akka.actor.default-dispatcher-17 INFO Worker: Retrying connection to master (attempt # 9)
+15/08/15 13:15:14.813 sparkWorker-akka.actor.default-dispatcher-17 INFO Worker: Retrying connection to master (attempt # 10)
+15/08/15 13:15:14.813 sparkWorker-akka.actor.default-dispatcher-16 INFO Worker: Retrying connection to master (attempt # 11)
+15/08/15 13:15:14.814 sparkWorker-akka.actor.default-dispatcher-16 INFO Worker: Retrying connection to master (attempt # 12)
+15/08/15 13:15:14.814 sparkWorker-akka.actor.default-dispatcher-16 INFO Worker: Retrying connection to master (attempt # 13)
+15/08/15 13:15:14.814 sparkWorker-akka.actor.default-dispatcher-16 INFO Worker: Retrying connection to master (attempt # 14)
+15/08/15 13:15:14.814 sparkWorker-akka.actor.default-dispatcher-16 INFO Worker: Retrying connection to master (attempt # 15)
+15/08/15 13:15:14.815 sparkWorker-akka.actor.default-dispatcher-16 INFO Worker: Retrying connection to master (attempt # 16)
+15/08/15 13:15:14.836 sparkWorker-akka.actor.default-dispatcher-16 ERROR Worker: All masters are unresponsive! Giving up.
+15/08/15 13:15:15.040 Thread-1 INFO Utils: Shutdown hook called
+15/08/15 13:15:15.136 Thread-1 INFO Utils: Deleting directory C:\Users\SM\AppData\Local\Temp\spark-f8017845-60c5-43fa-8613-73691b1f226b
+15/08/16 17:02:43.793 main WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+15/08/16 17:02:43.887 main INFO SecurityManager: Changing view acls to: SM
+15/08/16 17:02:43.887 main INFO SecurityManager: Changing modify acls to: SM
+15/08/16 17:02:43.887 main INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(SM); users with modify permissions: Set(SM)
+15/08/16 17:02:44.730 sparkMaster-akka.actor.default-dispatcher-2 INFO Slf4jLogger: Slf4jLogger started
+15/08/16 17:02:44.808 sparkMaster-akka.actor.default-dispatcher-2 INFO Remoting: Starting remoting
+15/08/16 17:02:45.074 sparkMaster-akka.actor.default-dispatcher-2 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://sparkMaster@192.168.123.190:7077]
+15/08/16 17:02:45.074 main INFO Utils: Successfully started service 'sparkMaster' on port 7077.
+15/08/16 17:02:45.402 sparkMaster-akka.actor.default-dispatcher-2 INFO Server: jetty-8.1.14.v20131031
+15/08/16 17:02:45.465 sparkMaster-akka.actor.default-dispatcher-2 INFO AbstractConnector: Started SelectChannelConnector@SUNMIN:6066
+15/08/16 17:02:45.465 sparkMaster-akka.actor.default-dispatcher-2 INFO Utils: Successfully started service on port 6066.
+15/08/16 17:02:45.465 sparkMaster-akka.actor.default-dispatcher-2 INFO StandaloneRestServer: Started REST server for submitting applications on port 6066
+15/08/16 17:02:45.465 sparkMaster-akka.actor.default-dispatcher-2 INFO Master: Starting Spark master at spark://192.168.123.190:7077
+15/08/16 17:02:45.465 sparkMaster-akka.actor.default-dispatcher-2 INFO Master: Running Spark version 1.4.1
+15/08/16 17:02:45.480 sparkMaster-akka.actor.default-dispatcher-2 INFO Server: jetty-8.1.14.v20131031
+15/08/16 17:02:45.496 sparkMaster-akka.actor.default-dispatcher-2 INFO AbstractConnector: Started SelectChannelConnector@0.0.0.0:8080
+15/08/16 17:02:45.496 sparkMaster-akka.actor.default-dispatcher-2 INFO Utils: Successfully started service 'MasterUI' on port 8080.
+15/08/16 17:02:45.496 sparkMaster-akka.actor.default-dispatcher-2 INFO MasterWebUI: Started MasterWebUI at http://192.168.123.190:8080
+15/08/16 17:02:45.777 sparkMaster-akka.actor.default-dispatcher-2 INFO Master: I have been elected leader! New state: ALIVE
